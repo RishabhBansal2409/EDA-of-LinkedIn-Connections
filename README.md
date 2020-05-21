@@ -16,5 +16,5 @@
   c) What are the **top 10 roles** on the basis of the **no of connections corresponding to each role** ?  
   d) What are the **no of connections** added each year ?  
   e) Which are **months when I have got connected** with the people the most ?  
-  
-  
+
+This type of analysis will help me to know with which companies' people as well as the roles I should connect more so as to be aligned with my goal.
