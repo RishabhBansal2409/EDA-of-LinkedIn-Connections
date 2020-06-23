@@ -1,5 +1,7 @@
 # Exploratory Data Analysis of my LinkedIn Connections
 
+![](image/LinkedIn Connections Analysis.png)
+
 **Data Collection**
 * First step in any analysis is to obtain good quality data.
 * LinkedIn provides various csv files (Connections/Messages) on which one can perform different types of analysis.
