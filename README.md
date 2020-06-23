@@ -1,6 +1,6 @@
 # Exploratory Data Analysis of my LinkedIn Connections
 
-![](image/LinkedIn Connections Analysis.png)
+![](https://github.com/RishabhBansal2409/EDA_of_LinkedIn_Connections/blob/master/images/LinkedIn_%20Connections_%20Analysis.jpg)
 
 **Data Collection**
 * First step in any analysis is to obtain good quality data.
